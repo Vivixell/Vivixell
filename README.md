@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @Vivixell
-- 👀 I’m interested in Programming and remote tech jobs..
-- 🌱 I’m currently learning Python as my first programming language 
-- 💞️ I’m looking to collaborate on future projects and tasks that I'll be giving myself.
+# Hi there 👋 I'm Victor Robin!  
+
+I’m a passionate **Cloud | DevOps | DevSecOps Enthusiast** with a strong interest in building secure and scalable infrastructure. Although I'm early in my journey, I’m constantly learning and growing in:
+  
+
+| **Cloud**      | 🛠️ **IaC**     | 📦 **Containers** | ⚙️ **CI/CD**      |
+|----------------|----------------|-------------------|--------------------|
+|  AWS           | Terraform      | Docker            | GitHub Actions     |
+|  Azure         | Ansible        |  Kubernetes       | Jenkins            |
+ 
+
+
+I love automating workflows, designing cloud-native solutions, and integrating security into DevOps practices. Always eager to learn, innovate, and create efficient systems. 
+
+
+Let’s connect and build something great together! 🚀  
 
 
 <!---
