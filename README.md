@@ -3,7 +3,7 @@ Vivixell/Vivixell is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there 👋 I'm Victor Robin
+### Hi there 👋 I'm Victor Robin Okon
 
 A Solution Architect & DevOps Engineer building secure, scalable cloud-native infrastructure. I work across AWS, Kubernetes, and IaC — with a growing focus on observability and reliability engineering.
 
