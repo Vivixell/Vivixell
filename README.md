@@ -13,13 +13,11 @@ A Solution Architect & DevOps Engineer building secure, scalable cloud-native in
 - CCNA
 ---
 ### 🛠️ Tech Stack
-| Cloud | IaC | Containers & Orchestration | CI/CD & GitOps |
-|---|---|---|---|
-| AWS | Terraform | Docker | GitHub Actions |
-| Azure | CloudFormation | Kubernetes | ArgoCD |
-|  | Ansible |  |  |
-**Observability:** Prometheus · Grafana
-**Security tooling:** Gitleaks · SonarQube · Trivy
+| Cloud | IaC | Containers & Orchestration | CI/CD & GitOps | Observability | Security Tooling |
+| --- | --- | --- | --- | --- | --- |
+| AWS | Terraform | Docker | GitHub Actions | Prometheus | Gitleaks |
+| Azure | CloudFormation | Kubernetes | ArgoCD | Grafana | SonarQube |
+| GCP | Ansible |  |  |  | Trivy |
 ---
 ### Featured Projects ✨
 - **[DevSecOps Pipeline for a Microservices App](https://github.com/Vivixell/microservices-demo)**: Production-grade DevSecOps deployment of Google's Online Boutique (11-service microservices e-commerce app) on AWS EKS. Modular Terraform, GitHub Actions CI/CD, GitOps via ArgoCD, security scanning pipeline, and full Prometheus/Grafana observability.
@@ -32,6 +30,7 @@ A Solution Architect & DevOps Engineer building secure, scalable cloud-native in
 
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/victorrobino)
+
 [![Credly](https://img.shields.io/badge/Credly-certifications-green?logo=credly)](https://www.credly.com/users/ovr/badges/credly)
 
 Always open to conversations on cloud architecture, DevOps practice, and reliability engineering. Let's build something great 🚀
