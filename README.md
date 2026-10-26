@@ -7,6 +7,7 @@ A Solution Architect & DevOps Engineer building secure, scalable cloud-native in
 
 📜 **Certifications:** [View my badges on Credly](https://www.credly.com/users/ovr/badges/credly)
 
+- AWS Certified DevOps Professional
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Developer – Associate
 - AWS Certified Cloud Practitioner
